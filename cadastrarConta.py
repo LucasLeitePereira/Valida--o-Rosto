@@ -6,11 +6,11 @@ import numpy as np
 def abrirBancoDeDados():
     try:
         conn = psycopg2.connect(
-            host="localhost",
-            port=5432,
-            dbname="Faces",
-            user="postgres",
-            password="LucasBR20"
+            host="",
+            port=,
+            dbname="",
+            user="",
+            password=""
         )
         cur = conn.cursor()
         print("Banco de dados aberto")
