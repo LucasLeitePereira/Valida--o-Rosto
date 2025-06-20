@@ -37,8 +37,7 @@ numpy
 1. **Clone o repositório**:
 
    ```bash
-   git clone https://github.com/LucasLeitePereira/
-   cd seu-projeto
+   git clone https://github.com/LucasLeitePereira/Validacao-de-Rosto
    ```
 
 2. **Crie e ative um ambiente virtual** (opcional, mas recomendado):
